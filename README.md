@@ -1,6 +1,6 @@
 # Blum Game Clicker Extension
 
-### Subscribe to my [Telegram channel](https://t.me/marcelkow_crypto) to get access to more software tools and updates.
+### Subscribe to my [Telegram channel] to get access to more software tools and updates.
 
 This extension automates the Blum game by automatically playing the game on your behalf, saving you time and allowing you to use accumulated tickets without manual effort.
 
